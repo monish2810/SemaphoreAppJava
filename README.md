@@ -13,6 +13,4 @@ This project is a Java Swing application demonstrating process synchronization u
 
 ## How to Run
 1. Ensure Java (JDK 8 or later) is installed.
-2. Compile the project:
-   ```bash
-   javac -d bin src/main/java/semaphoresimulation/*.java
+
